@@ -1,0 +1,29 @@
+_repo: Pelo-mundo-f-ra_30404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, Maria Amália Vaz de
+    alias: Carvalho, Maria Amalia Vaz de
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '31923'
+    url: http://www.gutenberg.org/2009/agents/31923
+    wikipedia: http://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+description: ''
+gutenberg_issued: '2009-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30404'
+  lccn: '41032948'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Intellectual life'
+- !lcc 'PQ'
+title: Pelo mundo fóra
+url: http://www.gutenberg.org/ebooks/30404
