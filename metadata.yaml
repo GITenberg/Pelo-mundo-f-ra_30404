@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31923
     wikipedia: http://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30404#Pelo-mundo-f-ra
 gutenberg_issued: '2009-11-05'
 gutenberg_type: Text
 identifiers:
